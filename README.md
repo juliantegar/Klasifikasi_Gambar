@@ -11,5 +11,3 @@ Dokumen ini memberikan petunjuk penggunaan model klasifikasi gambar yang telah d
 ## 🔍 Deskripsi Model
 
 Model ini dirancang untuk mengklasifikasikan gambar daun tomat ke dalam beberapa kategori, termasuk penyakit seperti `Late blight`, `Septoria leaf spot`, `Tomato Yellow Leaf Curl Virus`, serta kondisi `healthy`.
-
-Silakan gunakan format model sesuai kebutuhan platform Anda.
